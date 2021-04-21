@@ -1,0 +1,8 @@
+{
+  "name": "CollegeMate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "977cb1c8"
+}
